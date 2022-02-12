@@ -1,5 +1,4 @@
-# 
-
-A Pen created on CodePen.io. Original URL: [https://codepen.io/Xime_Tol_Mael/pen/oNowyrB](https://codepen.io/Xime_Tol_Mael/pen/oNowyrB).
+# WELCOME TO "TO-DO LIST PROTOTIPE"
+> I did this prototype in my instance at Duke University
 
 
